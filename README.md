@@ -1,6 +1,6 @@
 # About the app: 
 
-#### This is a Redux app with Node.js as backend that is able to register products.
+#### This a showcase app that was built using the MERN stack.
 
 ![web1](https://user-images.githubusercontent.com/45298748/160019683-158f1a69-b2f1-445f-8e69-df11c37f2fca.png)
 
