@@ -34,5 +34,4 @@ server
 
 ## Obs: use http://localhost:5000/items/actions/mock to **create mock products**
 ##      use http://localhost:5000/items/actions/removeAll to **remove all products**
-##      use http://localhost:5000/items/actions/removeAll to **remove all items**
 ##      use route (front-end) http://localhost:3000/addItems to **Add an specific item**
